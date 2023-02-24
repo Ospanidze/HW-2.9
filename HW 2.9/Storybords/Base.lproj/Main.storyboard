@@ -156,7 +156,7 @@
                                     <fontDescription key="titleFontDescription" type="system" pointSize="25"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="dobeButtonAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bMG-5B-cfX"/>
+                                    <action selector="doneButtonTapped" destination="BYZ-38-t0r" eventType="touchUpInside" id="V26-Eh-YjK"/>
                                 </connections>
                             </button>
                         </subviews>

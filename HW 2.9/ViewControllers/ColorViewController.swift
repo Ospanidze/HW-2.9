@@ -68,7 +68,7 @@ final class ColorViewController: UIViewController {
         }
     }
     
-    @IBAction func dobeButtonAction(_ sender: UIButton) {
+    @IBAction func doneButtonTapped() {
         delegate.setup(color: colorView.backgroundColor ?? .white)
         dismiss(animated: true)
     }
