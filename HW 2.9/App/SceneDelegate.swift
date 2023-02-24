@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  HW 2.4
 //
-//  Created by Игорь Солодянкин on 06.02.2023.
+//  Created by Айдар Оспанов on 24.02.2023.
 //
 
 import UIKit
